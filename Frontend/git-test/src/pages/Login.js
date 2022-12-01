@@ -32,7 +32,7 @@ export default function Login() {
             onChange={getUserInfo}
           />
           <input
-            className="userPassword"
+            className="userPa dssword"
             name="password"
             type="password"
             value={userInfo.password}
